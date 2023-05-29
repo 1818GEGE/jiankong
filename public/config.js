@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'IMSYY 站点监测',
+  SiteName: 'IMSYY 站点监测1',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
