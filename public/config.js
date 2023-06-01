@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '18WEB 站点监测',
+  SiteName: '壹蛋 站点监测',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -18,8 +18,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '十八导航',
-      url: 'https://dh.ufoxvpn.club/'
+      text: '壹蛋导航',
+      url: 'https://so.ooooo.uno/'
     },
   ],
 };
