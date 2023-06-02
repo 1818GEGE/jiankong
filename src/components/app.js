@@ -24,7 +24,7 @@ function App() {
         </div>
         <div id='footer'>
           <p>接口支持&nbsp;<Link to='https://uptimerobot.com/' text='UptimeRobot' />&nbsp;|&nbsp;检测频率&nbsp;5&nbsp;分钟</p>
-          <p>Copyright&nbsp;&copy;&nbsp;2020&nbsp;-&nbsp;2022&nbsp;Powered by&nbsp;<Link to='https://dh.ufoxvpn.club/' text='十八导航' />&nbsp;{Package.version}</p>
+          <p>Copyright&nbsp;&copy;&nbsp;2020&nbsp;-&nbsp;2023&nbsp;Powered by&nbsp;<Link to='https://ooooo.uno/' text='壹蛋' />&nbsp;{Package.version}</p>
         </div>
       </div>
     </>
